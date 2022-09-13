@@ -1,3 +1,4 @@
 hist(runif(1000))
 
-#opis hist
+#opis hist #
+# dodatkowy opis
